@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"rakshith",
+        "accountno":"123456",
+        "accountname":"karnataka",
+        "address1":"bangalore",
+        "address2":"bangalore",
+        "city":"bangalore",
+        "country":"india",
+        "zipcode":"560062"
+
+
+    },
+    {
+        "_id": "64981a6867902971ee487ecf",
+        "name": "rakshith",
+        "accountno": 123456,
+        "accountname": "karnataka",
+        "address1": "bangalore",
+        "address2": "bangalore",
+        "city": "bangalore",
+        "country": "india",
+        "zipcode": "560062"
+
+    },
+    {
+        "_id": "649861feacd5f7efc9677886",
+        "name": "shabariishettyhosmne",
+        "accountno": 11,
+        "accountname": "String",
+        "address1": "String",
+        "address2": "String",
+        "city": "String",
+        "country": "String",
+        "zipcode": "222"
+    }
+]
